@@ -1,8 +1,19 @@
-Instawork interview assignment using React and Django.
+Instructions
 
-The application was built in approximately 85 minutes broken down as follows:
-- 50 minutes setting up box: installing react, django and dependencies
-- 10 minutes on code
-- 25 minutes debugging, mostly installation/interconnectivity issues 
+To save time on installation and dependencies, all required modules have been uploaded in /frontend/node_modules folder (about 389 MB). 
 
-I am stack-agnostic. As with all stacks, I usually spend more time on the initial setup (1-3 hours), than the actual code. 
+1- Dowwload entire project
+
+2- Start project, from terminals   
+  
+  Terminal 1 - Backend> 
+  cd team_management
+  python manage.py runserver
+  
+  Terminal 2 - Frontend>
+  cd frontend
+  npm start
+
+Browser should launch with app showing, a few random records should already be included. If you have any issues, don't hesitate to reach out (gjaja@yahoo.com).
+
+* Database location: /team_management/db.sqlite3
