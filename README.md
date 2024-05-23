@@ -1,3 +1,9 @@
+**Updates**
+
+Added backend dependencies in team_management folder (requirements.txt)
+
+
+
 **Instructions**
 
 To save time on installation and dependencies, all required modules have been uploaded in /frontend/node_modules folder (about 389 MB). 
