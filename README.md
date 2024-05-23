@@ -1,6 +1,6 @@
 **Updates**
 
-* Packaged as requested.
+* Packaged backend in /team_management/dist
 * Added backend dependencies in team_management folder (requirements.txt).
 
 
