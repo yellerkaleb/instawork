@@ -1,7 +1,7 @@
 **Updates**
 
-Packaged as requested.
-Added backend dependencies in team_management folder (requirements.txt).
+* Packaged as requested.
+* Added backend dependencies in team_management folder (requirements.txt).
 
 
 
